@@ -2,7 +2,7 @@
 - 👀 I’m interested in astronomy - stars, galaxies, exoplanets 🌠 🌌 and machine learning 🧠 🧑‍🔬
 
 - 🌱 I’m currently learning ML, Deep Learning with lot of help from @karpathy, @fastdotai, and several mentors sharing their craft as creators.
-- 💞️ I’m looking to collaborate on astroinformatics project (as a beginner)
+- 💞️ I’m looking to collaborate on astroinformatics projects (NOTE: still a beginner)
 - 📫 How to reach me ... [Twitter](https://twitter.com/aspiringastro)
 
 <!---
